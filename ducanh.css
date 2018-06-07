@@ -1,0 +1,65 @@
+.php-13 {
+     color :red
+}
+header {text-align: center}
+img {text-align: center}
+
+H1 {COLOR :RED}
+H3 {COLOR : BLUE
+}
+
+     p {text-align: left}
+H3 {text-align: center}
+div {color : rgb(43, 226, 98)}
+b { color :black}
+
+
+
+.display plex {
+    display-color: red;
+}
+.header-of-page {
+    width: 100%;
+    height: 150px;
+    background-color: red;
+
+    
+}
+
+
+.php-13  {
+    width: 50%;
+    height: 400px;
+    background-color: orange;
+    float: left;
+
+}
+.navigation-of-page {
+    width: 100%;
+    height: 60px;
+    background-color: greenyellow;
+}
+.tieu-su-ben-phai {
+    width: 50%;
+    height: 200px;
+    background-color:blueviolet;
+    float: left
+
+}
+.thong-tin-ben-phai {
+    width: 50%;
+    height: 200px;
+    background-color: aqua;
+    float: left;
+}
+footer {
+    width: 100%;
+    height: 50px;
+    background-color:greenyellow;
+
+}
+
+
+
+
+
